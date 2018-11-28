@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/pablo/Documents/salgados/web/listar_produto.jsp</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/modelo/ClienteDAO.java</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/modelo/ProdutoDAO.java</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/modelo/CidadeDAO.java</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/modelo/Funcionario.java</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/controle/InserirCliente.java</file>
+            <file>file:/D:/pablo/Documents/salgados/web/form_alterar_cliente.jsp</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/modelo/Classificacao.java</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/controle/ExcluirProduto.java</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/controle/AlterarCliente.java</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/modelo/PerfilDAO.java</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/modelo/Produto.java</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/modelo/ClassificacaoDAO.java</file>
+            <file>file:/D:/pablo/Documents/salgados/web/index.html</file>
+            <file>file:/D:/pablo/Documents/salgados/web/form_alterar_produto.jsp</file>
+            <file>file:/D:/pablo/Documents/salgados/web/form_inserir_cliente.jsp</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/controle/AlterarProduto.java</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/controle/InserirProduto.java</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/modelo/DataSource.java</file>
+            <file>file:/D:/pablo/Documents/salgados/web/listar_cliente.jsp</file>
+            <file>file:/D:/pablo/Documents/salgados/src/java/controle/ExcluirCliente.java</file>
+            <file>file:/D:/pablo/Documents/salgados/web/WEB-INF/web.xml</file>
+            <file>file:/D:/pablo/Documents/salgados/nbproject/build-impl.xml</file>
+            <file>file:/D:/pablo/Documents/salgados/web/listar_funcionario.jsp</file>
+        </group>
+    </open-files>
+</project-private>
